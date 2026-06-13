@@ -1,4 +1,4 @@
 # RubyFind
-Source for the RubyFind search engine for vintage computers (Lua + nginx port)
+A port of ActionRetro's FrogFind to lua + nginx
 
-Love Ruby. Use RubyFind.
+All image support has been removed from this port, searching and news are strictly text-only with a different color theme.
